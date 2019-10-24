@@ -35,11 +35,11 @@ password=1@2019aj-k
 # 设置连接服务器时的字符编码
 default-character-set=utf8
 # 指定加密连接修改配置文件路径
-ssl-ca=/var/lib/mysql/ca.pem
-ssl-cert=/var/lib/mysql/server-cert.pem
-ssl-key=/var/lib/mysql/server-key.pem
-ssl-mode=VERIFY_CA
+# ssl-ca=/var/lib/mysql/ca.pem
+# ssl-cert=/var/lib/mysql/server-cert.pem
+# ssl-key=/var/lib/mysql/server-key.pem
+# ssl-mode=VERIFY_CA
 # 开启加密连接
-ssl-mode=REQUIRED
+# ssl-mode=REQUIRED
 
 
